@@ -1,0 +1,2 @@
+filler_words = ['the', 'a', 'an', 'and', 'as', 'he', 'she', 'is', 'are', 'was', 'were', 'in', 'on', 'at', 'to', 'of', 'for', 'by', 'with', 'and', 'or', 'but', 'than', 'why', 'its', 'who', 'what', 'where', 'when', 'that', 'could', 'have', 'their', 'his', 'not', 'it', 'this', 'from', 'these', 'i', 'has', 'be', 'know', 'about', 'far', 'so', "it's", 'takes', 'how', 'i', 'in', 'from', 'what', 'here', 'is', 'to', 'and', 'says']
+
