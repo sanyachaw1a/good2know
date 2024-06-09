@@ -4,6 +4,9 @@
 
 Good2Know is a personal application that scrapes various news websites, clusters related articles, identifies key topics, and presents the top five most important news topics of the day. It consists of a backend written in Python and a frontend built using React Native.
 
+![layout](https://github.com/sanyachaw1a/good2know/assets/87011400/d5bc5691-0a32-451f-865f-49c26c04937c)
+
+
 ## Backend Features
 
 - **Web Scraping**: Utilizes Beautiful Soup to scrape multiple news websites for articles.
