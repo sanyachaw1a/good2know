@@ -18,22 +18,6 @@ Good2Know is a personal application that scrapes various news websites, clusters
 - **Data Fetching**: Fetches information about news topics and related articles from the backend.
 - **User Interface**: Provides an intuitive and user-friendly interface for navigating news topics and articles.
 
-## How to Use
-
-### Backend
-
-1. **Setup**: Clone the repository and navigate to the backend directory.
-2. **Dependencies**: Install required Python dependencies using `pip install -r requirements.txt`.
-3. **Configuration**: Set up Firebase credentials and configure the backend settings.
-4. **Execution**: Run the backend server using `python app.py`.
-
-### Frontend
-
-1. **Setup**: Clone the repository and navigate to the frontend directory.
-2. **Dependencies**: Install required Node.js dependencies using `npm install`.
-3. **Configuration**: Update API endpoints and Firebase configurations as necessary.
-4. **Execution**: Run the React Native app using `npm start`.
-
 ## Technologies Used
 
 ### Backend
